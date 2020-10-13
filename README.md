@@ -31,4 +31,18 @@ pFound, посчитанной по топ-10 документов. Выдача
 
 ### Machine learning track
 #### Practice round
-TODO
+**A. Решающий пень**
+
+![decisionstump](ml/practice/A.stump/decision_stump.png)
+
+**B. Восстановление коэффициентов**
+
+![coeffs](ml/practice/B.coefficients/coeffs.png)
+
+**C. Уникальные запросы**
+
+![queries](ml/practice/C.queries/queries.png)
+
+**D. Рестораны**
+
+![restaurants](ml/practice/D.restaurants/restaurants.png)
